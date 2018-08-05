@@ -2,6 +2,13 @@
 By `Ing. Jimmy Figueroa A -- jimmyfigueroa@me.com`
 
 ## Word Count
+
+### Pre-requisites
+  * have `python version 3` installed in your environment
+  * have `spark` installed in your environment
+  * have access to a `unix terminal` from your environment
+
+### Code
 Idea is to count words from an input streaming pipe and show a table with word count stats in the console of the output streaming side.
 
 You'll need 2 unix terminal windows for this. In one terminal you type the command line to start the localhost as a server listening in port 9999: 
