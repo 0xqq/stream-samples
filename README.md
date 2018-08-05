@@ -1,4 +1,4 @@
-# Data Streaming Samples with Spark
+# Data Streaming Samples with Spark and Kafka
 By `Ing. Jimmy Figueroa A -- jimmyfigueroa@me.com`
 
 ## Word Count
