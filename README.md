@@ -14,4 +14,4 @@ On a separate terminal, you type the following command to start the spark script
 
 At this point you are able to write something in your first terminal, then have the second terminal show the output as a word count table.
 
-  ![sample output](https://imgur.com/J7Qy3I5)
+![sample_output](https://imgur.com/J7Qy3I5)
